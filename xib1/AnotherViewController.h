@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AnotherViewController.h
 //  xib1
 //
 //  Created by Parker, Carl (HBO) on 4/19/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AnotherViewController : UIViewController
 
 @end
-
